@@ -12,15 +12,15 @@ The project simulates a real-world enterprise sales environment and provides act
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+https://github.com/Syed07Asif/Enterprise-Sales-Analytics-Dashboard/raw/main/Executive_Overview.png
 
 ### Sales Performance Dashboard
 
-![Sales Performance](Screenshots/Sales_Performance.png)
+https://github.com/Syed07Asif/Enterprise-Sales-Analytics-Dashboard/raw/main/Sales_Performance.png
 
 ### Customer & Product Analytics Dashboard
 
-![Customer Analytics](Screenshots/Customer_Product_Analytics.png)
+https://github.com/Syed07Asif/Enterprise-Sales-Analytics-Dashboard/raw/main/Customer_Product_Analytics.png
 
 ---
 
